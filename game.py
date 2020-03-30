@@ -7,3 +7,4 @@ class Game:
         #generer notre joueur
 
         self.player = Player()
+        self.pressed = {}
